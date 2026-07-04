@@ -18,6 +18,4 @@ The **U/D** (Up/Down) output is 5V when the **TRI** output is rising and -5V whe
 
 **SIN** is a sinusoid version of **TRI**. The **SAW** output is twice the frequency of **TRI** and **SIN**.
 
-Switching the module to **ENV** and sending a rising edge to the **TRG** input makes the **TRI** output go from 0V to 8V and back to 0V.
-
-A trimmer on the back of the module can be used to tune the volt per octave tracking. 
+Trimmers on the back of the module can be used to tune the volt per octave tracking and the shape of the sine output.
