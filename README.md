@@ -1,6 +1,6 @@
 # 8hp VCO/LFO
 
-![](https://github.com/Fihdi/UNO/blob/main/UNO-IRL.png?raw=true)
+![](https://raw.githubusercontent.com/Fihdi/UNO/refs/heads/main/UNO-IRL.jpeg)
 
 UNO (Universal Oscillator) is an all-purpose voltage controlled oscillator / LFO. The frequency range can be switched from low (**LFO** mode) to high (**VCO** mode).
 
